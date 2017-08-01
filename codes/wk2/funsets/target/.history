@@ -1,0 +1,16 @@
+test
+scala
+console
+scala Main.scala
+compile
+scala
+console
+run
+test
+run
+test
+submit wzhang80@illinois.edu Qd9XPSTe5ofeFQdq
+scala Main
+compile
+ls
+scala main

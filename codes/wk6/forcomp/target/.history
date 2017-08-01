@@ -1,0 +1,37 @@
+test
+console
+test
+val grades = SortedMap("Kim" -> 90,
+     | "Al" -> 85,
+     | "Melissa" -> 95,
+     | "Emily" -> 91,
+     | "Hannah" -> 92
+console
+val grades = SortedMap("Kim" -> 90,
+     | "Al" -> 85,
+     | "Melissa" -> 95,
+     | "Emily" -> 91,
+     | "Hannah" -> 92
+console
+pwd
+val grades = SortedMap("Kim" -> 90,
+     | "Al" -> 85,
+     | "Melissa" -> 95,
+     | "Emily" -> 91,
+     | "Hannah" -> 92
+console
+compile
+console
+compile
+console
+compile
+console
+compile
+console
+compile
+console
+test
+console
+test
+submit wzhang80@illinois.edu zEG35kF6ke33hW3N
+test

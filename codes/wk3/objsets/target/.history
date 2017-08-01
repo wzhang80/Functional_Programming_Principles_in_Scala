@@ -1,0 +1,14 @@
+test
+run
+compile
+run
+sbt
+console
+val google = List("android", "Android", "galaxy", "Galaxy", "nexus", "Nexus")
+val a = List("a","b")
+console
+test
+run
+submit wzhang80@illinois.edu iehODIA9TlRi88xi
+run
+submit wzhang80@illinois.edu iehODIA9TlRi88xi
